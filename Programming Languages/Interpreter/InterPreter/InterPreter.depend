@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1625767250 source:c:\users\rbura\desktop\05180000075_ve_grubu_final_projesi\main.c
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1625767250 source:c:\users\rbura\desktop\interpreter\main.c
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<stdlib.h>
+	<stdbool.h>
+

@@ -1,0 +1,16 @@
+int my_Var. 
+move 25 to my_Var.
+int sum.
+move 0 to sum.
+
+int t.
+move 5 to t. 
+sub t from my_Var. 
+
+out my_Var, newline.
+
+out sum, newline.
+
+loop 10 times [add 5 to my_Var.   ]
+loop 10 times [add 1 to my_Var.   ]
+out my_Var.
